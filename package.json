@@ -26,10 +26,10 @@
   "homepage": "https://github.com/Globegitter/broccoli-browser-sync#readme",
   "dependencies": {
     "broccoli-caching-writer": "git+https://github.com/Globegitter/broccoli-caching-writer.git#patch-1",
-    "browser-sync": "^2.9.3",
-    "glob": "^5.0.14"
+    "browser-sync": "^2.9.7",
+    "glob": "^5.0.15"
   },
   "devDependencies": {
-    "eslint": "^1.5.0"
+    "eslint": "^1.5.1"
   }
 }
